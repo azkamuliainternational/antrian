@@ -1,5 +1,5 @@
 # antrian
-Deskripsi Singkat
+## Deskripsi Singkat
 Sebuah platform berbasis web untuk manajemen antrian modern yang memungkinkan pengguna melakukan antrian secara online dengan menggunakan QR code dan menerima notifikasi melalui WhatsApp. Sistem ini mendukung multi-antrian, dilengkapi dengan dashboard untuk pengelola, dan memiliki mekanisme monetisasi melalui langganan.
 
 Spesifikasi dan Fitur Utama
