@@ -117,4 +117,3 @@ Sebuah platform berbasis web untuk manajemen antrian modern yang memungkinkan pe
 4. **Building web untuk pemasaran:**
    - building web untuk registrasi
 
-Jika Anda ingin mengembangkan ide ini lebih jauh atau memulai perencanaan teknisnya, saya siap membantu!
