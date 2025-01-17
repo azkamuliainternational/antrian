@@ -55,10 +55,12 @@ Sebuah platform berbasis web untuk manajemen antrian modern yang memungkinkan pe
     - Menggunakan API WhatsApp untuk mengirim pesan ke pengguna.
     - Format pesan fleksibel dan dapat dikustomisasi.
   - **Monetisasi:**
-    - Sistem langganan berbasis tier (contoh: Basic, Pro, Premium) dengan fitur berbeda:
-      - **Basic:** 1 antrian, limit pengguna per hari.
-      - **Pro:** Hingga 5 antrian, statistik lengkap.
-      - **Premium:** Unlimited antrian dan integrasi tambahan.
+    - Sistem langganan berbasis tier (Free,Basic, Pro) dengan fitur berbeda:
+      - **Free:** 100 antrian, limit pengguna per bulan.
+      - **Basic:** unlimited antrian 1 layanan , statistik lengkap.
+      - **Pro:** Unlimited antrian ,5 layanan dan statistik lengkap.
+      - **Call:** apabila menginginkan fitur tambahan 
+
     - Integrasi payment gateway untuk pembayaran langganan.
   - **Keamanan:**
     - Autentikasi pengguna dengan token atau sistem login.
