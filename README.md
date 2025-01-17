@@ -32,12 +32,14 @@ Sebuah platform berbasis web untuk manajemen antrian modern yang memungkinkan pe
     - Nomor HP.
     - Layanan yang dipilih.
     - Status antrian (menunggu, dipanggil, selesai).
+    ![Input Data Screen](/img/dashboard.png)
   - **Pemanggilan Antrian:**
     - Pengelola dapat memanggil pengguna berikutnya, yang akan diteruskan melalui notifikasi WhatsApp.
     - Tombol untuk menyelesaikan atau membatalkan antrian.
   - **Statistik:**
     - Total pengguna dalam antrian.
     - Riwayat antrian (harian/mingguan).
+    ![Input Data Screen](/img/grafik.png)
   - **Tampilan Antarmuka:**
     - Profesional dan mudah digunakan.
 
@@ -66,15 +68,15 @@ Sebuah platform berbasis web untuk manajemen antrian modern yang memungkinkan pe
 
 ## **4. Infrastruktur Teknologi**
 - **Frontend Teknologi:**
-  - Framework: React.js atau Vue.js untuk responsivitas.
+  - Framework: Astro js untuk responsivitas.
   - UI Library: TailwindCSS atau Material-UI.
   - PWA (Progressive Web App) untuk aksesibilitas di perangkat mobile.
 - **Backend Teknologi:**
-  - Framework: Node.js (Express) atau Python (Django/Flask).
-  - Database: PostgreSQL atau MongoDB untuk manajemen data.
-  - Integrasi API WhatsApp: Twilio, Meta API, atau penyedia serupa.
+  - Framework: Astro js
+  - Database: PostgreSQL  untuk manajemen data.
+  - Integrasi API WhatsApp: wa gate wai.
 - **Hosting:**
-  - Cloud Service seperti AWS, Google Cloud, atau Vercel.
+  - own hosting
 - **Integrasi Payment Gateway:**
   - Midtrans, Stripe, atau Xendit untuk sistem pembayaran langganan.
 
